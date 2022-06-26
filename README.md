@@ -1,4 +1,4 @@
-# <img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645571154Insignia_3.png" alt="insignia alura" type="image/png" width=70 height=70 />Portafolio-Alura-Challenge-Oracle-Next-Education-
+# <img src="https://raw.githubusercontent.com/Danielo27/Portafolio-Alura-Challenge-Oracle-Next-Education-/main/assets/img/cms_files_10224_1645571154Insignia_3.png" alt="insignia alura" type="image/png" width=70 height=70 />Portafolio-Alura-Challenge-Oracle-Next-Education-
 
 ### Portafolio de Presentacion Proyectos Alura - Programa One de Oracle Next Education
 
