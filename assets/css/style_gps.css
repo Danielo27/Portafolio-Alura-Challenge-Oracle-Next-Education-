@@ -1,25 +1,25 @@
 .navbar .navbar-nav>li>a span.username {
-    background-color: #2bc0e0;
-    border: 2px solid #2bc0e0;
+    background-color: #2bc0e0 !important;
+    border: 2px solid #2bc0e0 !important;
 }
 
 .navbar .navbar-nav>li>a.settings>i {
-    background-color: #2bc0e0;
-    border: 2px solid #2bc0e0;
+    background-color: #2bc0e0 !important;
+    border: 2px solid #2bc0e0 !important;
 }
 
 .navbar .user-menu>li ul.dropdown-menu>li>a {
-    color: #2bc0e0;
+    color: #2bc0e0 !important;
 }
 
 .btn-submit {
-    background: #2bc0e0;
+    background: #2bc0e0 !important;
 }
 
 .navbar {
-    border-bottom: 2px solid #2bc0e0;
+    border-bottom: 2px solid #2bc0e0 !important;
 }
 
 .alert-info {
-    color: #2bc0e0;
+    color: #2bc0e0 !important;
 }
