@@ -23,3 +23,7 @@
 .alert-info {
     color: #2bc0e0 !important;
 }
+
+.navbar .navbar-nav>li>a .user-avatar {
+    background-image: url(https://danielo27.github.io/Portafolio-Alura-Challenge-Oracle-Next-Education-/assets/img/usericon.png) !important;
+}
