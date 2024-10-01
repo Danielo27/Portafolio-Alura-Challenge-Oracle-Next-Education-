@@ -1,3 +1,7 @@
+.navbar{
+    background-color: #f7f7f7 !important;
+}
+
 .navbar .navbar-nav>li>a span.username {
     background-color: #2bc0e0 !important;
     border:0.7px solid #2a8599 !important;
@@ -16,6 +20,10 @@
     background: #2bc0e0 !important;
 }
 
+.sidebar-holder>.nav>li>a:hover {
+    background-color: #1b778b;
+}
+
 .navbar {
     border-bottom: 2px solid #2bc0e0 !important;
 }
@@ -25,6 +33,8 @@
 }
 
 .navbar .navbar-nav>li>a .user-avatar {
+	border: 3px solid #f7f7f7;
+	background-color: #f7f7f7;
     background-image: url(https://danielo27.github.io/Portafolio-Alura-Challenge-Oracle-Next-Education-/assets/img/usericon.png) !important;
 }
 
