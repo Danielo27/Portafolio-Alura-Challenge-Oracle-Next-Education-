@@ -34,12 +34,10 @@
 
 .login-box {
     background-color: #f7f7f7 !important;
+    border-radius: 15px !important;
+	border:none !important;
 }
 
 .login-box h1 {
     color: #2bc0e0 !important;
-}
-
-.login-box {
-    border: 1px solid #1f1f1f !important;
 }
